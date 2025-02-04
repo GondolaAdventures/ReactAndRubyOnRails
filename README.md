@@ -14,5 +14,4 @@ A simple and modern **Task Manager** built with **React** that allows users to a
 
 1. **Clone the repository** (if using GitHub):
    ```sh
-   git clone https://github.com/your-username/task-manager-react.git
-   cd task-manager-react
+   git clone https://github.com/GondolaAdventures/ReactAndRubyOnRails
